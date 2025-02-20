@@ -2,7 +2,7 @@
   {
 		"name": "El Dorado",
 		{
-    "name": "El Dorado 1",
+    "name": "El Dorado",
     "type": "NaturalWonder",
     "culture": 5,
     "overrideStats": true,
