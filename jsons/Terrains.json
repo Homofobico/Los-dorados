@@ -1,6 +1,6 @@
 [
   {
-    "name": "El Dorado",
+    "name": "El Pete",
     "type": "NaturalWonder",
     "culture": 5,
     "overrideStats": true,
@@ -14,7 +14,7 @@
 {
     "name": "El Dorado 2",
     "type": "NaturalWonder",
-    "culture": 5,
+    "culture": 2,
     "overrideStats": true,
     "occursOn": ["Plains"],
     "turnsInto": "Plains",
@@ -26,7 +26,7 @@
 {
     "name": "El Dorado 3",
     "type": "NaturalWonder",
-    "culture": 5,
+    "culture": 10,
     "overrideStats": true,
     "occursOn": ["Plains"],
     "turnsInto": "Plains",
@@ -38,7 +38,7 @@
 {
     "name": "El Dorado 4",
     "type": "NaturalWonder",
-    "culture": 5,
+    "culture": 3,
     "overrideStats": true,
     "occursOn": ["Plains"],
     "turnsInto": "Plains",
@@ -50,7 +50,7 @@
 {
     "name": "El Dorado 5",
     "type": "NaturalWonder",
-    "culture": 5,
+    "culture": 20,
     "overrideStats": true,
     "occursOn": ["Plains"],
     "turnsInto": "Plains",
@@ -62,7 +62,7 @@
 {
     "name": "El Dorado 6",
     "type": "NaturalWonder",
-    "culture": 5,
+    "culture": 6,
     "overrideStats": true,
     "occursOn": ["Plains"],
     "turnsInto": "Plains",
