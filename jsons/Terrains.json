@@ -13,7 +13,7 @@
 },
 {
     "name": "El Dorado 2",
-    "type": "Feature",
+    "type": "Features",
     "culture": 2,
     "overrideStats": true,
     "occursOn": ["Plains"],
