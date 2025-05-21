@@ -13,7 +13,7 @@
 },
 {
     "name": "El Dorado 2",
-    "type": "NaturalWonder",
+    "type": "Feature",
     "culture": 2,
     "overrideStats": true,
     "occursOn": ["Plains"],
